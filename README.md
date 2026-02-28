@@ -16,13 +16,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=S-D-Nil&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-D-Nil&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=S-D-Nil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=S-D-Nil&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S-D-Nil&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
+<p align='center'><!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&colum=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=S-D-Nil&theme=dracula&column=11'>
+</p>
 ---
