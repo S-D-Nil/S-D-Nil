@@ -5,8 +5,11 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16381jBqFQ/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.d.nil_) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/hidinhgy-the-selector) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamersclub3232@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=S-D-Nil&icon=5&color=1)](https://visitcount.itsvg.in)
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-d-nil&label=Profile%20views&color=0e75b6&style=flat" alt="s-d-nil" /> </p>
+
+![](https://github-widgetbox.vercel.app/api/profile?username=S-D-Nil&data=followers,repositories,stars,commits)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
@@ -17,8 +20,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=S-D-Nil&theme=neon&hide_border=false)
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=S-D-Nil&theme=dracula&langs_count=25)
 ![](https://github-contributor-stats.vercel.app/api?username=S-D-Nil&limit=5&theme=neon&combine_all_yearly_contributions=true)
-<p align='center'>
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=S-D-Nil&theme=dracula&column=11'>
-</p>
+
+  ![](https://hacked-github-stat-trophies.vercel.app/?username=S-D-Nil&theme=dracula&column=11)
+
 
 ---
