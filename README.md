@@ -18,8 +18,6 @@
 <div align="center">
   
 ![](https://readme-stats-fabio-vicente.vercel.app/api?username=S-D-Nil&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=S-D-Nil&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=S-D-Nil&theme=neon&hide_border=false)
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=S-D-Nil&theme=dracula&langs_count=25)
 ![](https://hacked-github-stat-trophies.vercel.app/?username=S-D-Nil&theme=dracula&column=11)
 </div>
