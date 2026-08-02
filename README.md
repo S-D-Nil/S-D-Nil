@@ -19,7 +19,7 @@
   
 ![](https://readme-stats-fabio-vicente.vercel.app/api?username=S-D-Nil&count_private=true&show_icons=true&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=S-D-Nil&theme=neon)<br>
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=S-D-Nil&theme=neon&langs_count=25)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=S-D-Nil&theme=neon&langs_count=25)<br>
 ![](https://hacked-github-stat-trophies.vercel.app/?username=S-D-Nil&theme=dracula&column=11)
 </div>
 
